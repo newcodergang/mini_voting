@@ -4,7 +4,7 @@
 #define MAX_CANDIDATES 5
 
 typedef struct {
-    char name[50];
+    char name[500];
     int votes;
 } Candidate;
 
